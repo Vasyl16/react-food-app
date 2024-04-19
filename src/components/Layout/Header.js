@@ -18,8 +18,4 @@ const Header = (props) => {
   );
 };
 
-let a,
-  b = [1, 3];
-console.log(a);
-
 export default Header;
